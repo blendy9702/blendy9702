@@ -12,14 +12,9 @@
 ### 이전보다 더 좋은 경험을 드리기 위해서 늘 생각하고 성장하고 있습니다.<br/>
 
 ## 🛠️Skills<br/>
-### <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-
-
-
-
-
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-65ADF1?style=flat-square&logo=typescript&logoColor=white"/>
 
 
 </div>
