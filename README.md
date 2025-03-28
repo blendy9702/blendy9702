@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
 ## 🗒️ Notion Portfolio
-![https://www.notion.so/1ab64f129520807fb505f55059582dd4](https://rogue-product-e17.notion.site/1ab64f129520807fb505f55059582dd4?pvs=4)
+https://rogue-product-e17.notion.site/1ab64f129520807fb505f55059582dd4?pvs=4
 
 ## 
 </div>
