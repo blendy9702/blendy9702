@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
 ## 🗒️ Notion Portfolio
-![<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://www.notion.so/1ab64f129520807fb505f55059582dd4)
+![포트폴리오 노션 주소](https://www.notion.so/1ab64f129520807fb505f55059582dd4)
 
 ## 
 </div>
