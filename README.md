@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30)&height=300&section=header&text=ChangHo%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ChangHo%20Lee&fontSize=90)
 
 <!--
 **blendy9702/blendy9702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
