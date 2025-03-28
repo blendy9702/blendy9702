@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 
-## 🗒️Notion
-https://www.notion.so/1ab64f129520807fb505f55059582dd4
+## 🗒️ Notion Portfolio
+![<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://www.notion.so/1ab64f129520807fb505f55059582dd4)
+
+## 
 </div>
