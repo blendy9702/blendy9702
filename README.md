@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+🛠️Skill
+<img src="https://img.shields.io/badge/html5?style=flat-square&logo=html5&logoColor=#E34F26"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
