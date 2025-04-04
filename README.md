@@ -31,5 +31,5 @@
 [포트폴리오 노션 주소](https://rogue-product-e17.notion.site/1ab64f129520807fb505f55059582dd4?pvs=4)
 <br/>
 
-## 무엇을 더 적어야 할까?
+##
 </div>
