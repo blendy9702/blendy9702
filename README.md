@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 <br/>
 [![blendy9702's GitHub stats](https://github-readme-stats.vercel.app/api?username=blendy9702&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blendy9702&layout=compact)
 
 ## 🗒️ Notion Portfolio
 <br/>
