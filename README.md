@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Blendy9702=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?blendy9702=anuraghazra&show_icons=true&theme=radical)
 
 ## 🗒️ Notion Portfolio
 <br/>
